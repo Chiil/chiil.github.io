@@ -39,7 +39,7 @@ ipyleaflet
 
 # Data science
 openpyxl
-pandas[excel]
+pandas
 
 # Python: plotting libraries (optional)
 matplotlib
