@@ -38,6 +38,7 @@ ipycanvas>=0.9.1
 ipyleaflet
 
 # Data science
+openpyxl
 pandas[excel]
 
 # Python: plotting libraries (optional)
