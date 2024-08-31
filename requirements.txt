@@ -15,6 +15,9 @@ jupyterlite-p5-kernel==0.1.0
 # File download
 jupyterlab-open-url-parameter
 
+# Local filesystem access.
+jupyterlab-filesystem-access
+
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
 # JupyterLab: Geojson file renderer (optional)
