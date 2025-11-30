@@ -41,6 +41,8 @@ ipyleaflet
 # Data science
 openpyxl
 pandas
+xarray
 
 # Python: plotting libraries (optional)
 matplotlib
+plotly
